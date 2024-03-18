@@ -1,0 +1,9 @@
+# 1.Input:
+ #   World
+#Output:
+#    Hello, World
+
+x=input()
+print("Hello, "+x) 
+
+
